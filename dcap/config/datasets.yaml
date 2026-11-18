@@ -1,0 +1,8 @@
+monthly_enrollment:
+  filename: "enrollment.csv"
+  columns:
+    contract_id: string
+    state: string
+    report_month: month
+    enrollment_count: nonnegative_integer
+  keys: [contract_id, state, report_month]

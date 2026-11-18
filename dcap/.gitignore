@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+_local/
+config/paths.local.yaml
+.env
+# Real operational data belongs outside this repository.
+/data/
+/outputs/
+/logs/

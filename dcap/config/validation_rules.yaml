@@ -1,0 +1,9 @@
+monthly_enrollment:
+  required_nonblank: [contract_id, state, report_month, enrollment_count]
+  allowed_states: [CA, NY, TX]
+  allow_extra_columns: false
+comparison:
+  change_threshold_pct: 10
+  decimal_places: 2
+  rounding: ROUND_HALF_UP
+# Training rules only. Obtain approval before adapting them to real DCAP data.

@@ -1,0 +1,6 @@
+# Copy to paths.local.yaml, or run scripts/setup_demo.py for synthetic data.
+# Relative paths resolve from the dcap repository root.
+input_dir: "_local/input"
+output_dir: "_local/output"
+# For approved Windows shared drives, use forward slashes, e.g. S:/approved/input.
+# Replace with a confirmed location; this demo does not connect to shared drives.

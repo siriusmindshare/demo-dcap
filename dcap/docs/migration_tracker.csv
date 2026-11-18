@@ -1,0 +1,3 @@
+program,python_module,priority,status,owner,baseline
+monthly_enrollment_demo,src/monthly_enrollment/prepare.py,training,demo_complete,TBD,synthetic fixture
+star_ratings,src/star_ratings/calculate.py,TBD,not_implemented,TBD,TBD

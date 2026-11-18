@@ -1,0 +1,6 @@
+# Before use, replace placeholders with real GitHub users or teams with access.
+# * @YOUR-ORG/dcap-reviewers
+# /src/monthly_enrollment/ @YOUR-ORG/enrollment-reviewers
+# /src/star_ratings/ @YOUR-ORG/star-rating-reviewers
+# /config/ @YOUR-ORG/dcap-reviewers
+# Commented entries do not assign reviewers or enforce approval.
